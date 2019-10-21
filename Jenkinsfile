@@ -1,1 +1,3 @@
+
+echo "hello"
 echo "hello"
